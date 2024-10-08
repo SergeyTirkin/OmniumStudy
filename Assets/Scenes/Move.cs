@@ -1,7 +1,6 @@
 using UnityEngine;
 public class Move : MonoBehaviour
 {
-
     public Transform[] MoveObjects = new Transform[3];
     public float LimitTransformX = 5;
     public float LimitTransform_X = -5;
